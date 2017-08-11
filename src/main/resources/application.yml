@@ -1,0 +1,4 @@
+spring:
+  redis:
+    password: 123456
+
